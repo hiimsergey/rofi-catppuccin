@@ -1,7 +1,7 @@
 # Catppuccin Rofi theme
 A simple theme for [rofi](https://github.com/davatorium/rofi) based on the [Catppuccin](https://catppuccin.com) theme.
 
-![screenshot](rofi_catppuccin_screenshot.png)
+![rofi_catppuccin_screenshot](https://github.com/hiimsergey/rofi-catppuccin/assets/91432388/06e6bdfb-7936-4204-9f05-9bbb866c8529)
 
 ## Installation
 1. Copy [`catppuccin-lavrent-mocha.rasi`](https://github.com/hiimsergey/rofi-catppuccin/blob/mocha/gruvbox-material.rasi) to `~/.config/rofi/`
